@@ -29,7 +29,7 @@ D) MSEXCEL
 5. Shipping Days vs Review Scores:
 
 
-### Results? Findins
+### Results? Findings.
 The study provides actionable recommendations to enhance customer experience, reduce delivery time, and increase market reach through targeted marketing and operational improvements. Let me know if you'd like further details or insights into any specific section.
 1.  Major sales happened on weekdays(77%) when compared to weekends(23%).
 2.  Currently credit cards are the most preferred payment type by customers which contributes a major role in overall sales(78.44%). To improve sales & to promote other payment types, Olist Store can provide discounts & offers on other payment types.
